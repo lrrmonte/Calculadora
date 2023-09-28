@@ -1,0 +1,11 @@
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\bin\Debug\CalculadoraPadrao.exe.config
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\bin\Debug\CalculadoraPadrao.exe
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\bin\Debug\CalculadoraPadrao.pdb
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.Form1.resources
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.Properties.Resources.resources
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.csproj.GenerateResource.cache
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.exe
+C:\Users\linco\OneDrive\Documentos\Calculadora\CalculadoraPadrao\CalculadoraPadrao\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.pdb
